@@ -1,0 +1,1 @@
+var json__4 = {"type":"FeatureCollection","name":"_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"7","name":"Khao Takiab Beach","picture":"https://drive.google.com/file/d/10KURLyUCxPHOXnBX8GO1Qk1Y_dQKuldD/view"},"geometry":{"type":"Point","coordinates":[99.977590817774598,12.510020726506891]}}]}
